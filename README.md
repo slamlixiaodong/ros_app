@@ -1,0 +1,2 @@
+这是一个ROS_APP的代码包，包含了ros_core和ros_apps
+修改了gradle文件编译通过，但是没有解决ros_apps闪退问题
